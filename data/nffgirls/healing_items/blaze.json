@@ -1,0 +1,30 @@
+[
+  {
+    "item": "minecraft:coal",
+    "amount": [5]
+  },
+  {
+    "item": "minecraft:fire_charge",
+    "amount": [10]
+  },
+  {
+    "item": "minecraft:blaze_powder",
+    "amount": [15]
+  },
+  {
+    "item": "hmag:burning_core",
+    "amount_getter": "nffgirls:mob_max_health"
+  },
+  {
+    "item": "alexscaves:tectonic_shard",
+    "amount_getter": "nffgirls:mob_max_health"
+  },
+  {
+    "item": "grimoireofgaia:stone_coal",
+    "amount": [20]
+  },
+  {
+    "item": "grimoireofgaia:fireshard",
+    "amount": [20]
+  }
+]

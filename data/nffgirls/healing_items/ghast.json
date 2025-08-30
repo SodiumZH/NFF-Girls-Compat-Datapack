@@ -1,0 +1,26 @@
+[
+  {
+    "item": "minecraft:gunpowder",
+    "amount": [5]
+  },
+  {
+    "item": "hmag:soul_powder",
+    "amount": [10]
+  },
+  {
+    "item": "hmag:soul_apple",
+    "amount_getter": "nffgirls:mob_max_health"
+  },
+  {
+    "item": "twilightforest:fiery_tears",
+    "amount": [20]
+  },
+  {
+    "item": "twilightforest:fiery_blood",
+    "amount": [20]
+  },
+  {
+    "item": "twilightforest:experiment_115",
+    "amount": [15]
+  }
+]
